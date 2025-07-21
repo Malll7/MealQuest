@@ -83,7 +83,7 @@ class FiltersScreen extends ConsumerWidget {
             contentPadding: const EdgeInsets.only(left: 34, right: 22),
           ),
           SwitchListTile(
-            value: activeFilters[Filter.vegetarianFree]!,
+            value: activeFilters[Filter.veganFree]!,
             onChanged: (isChecked) {
               ref
                   .read(filtersProvider.notifier)
