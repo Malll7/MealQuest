@@ -1,9 +1,3 @@
-# meals_app
-
-MealQuest-App
-
-## 
+# MealQuest App
 
 Discover recipes. Cook with ease.
-
-
